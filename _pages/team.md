@@ -77,7 +77,7 @@ permalink: /members/
 </div>
 {% endif %}
 
-## M.Sc./Ph.D. Students
+## Ph.D. Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phdstudents %}
 
@@ -146,7 +146,7 @@ permalink: /members/
 
 -->
 
-## Undergraduate Students 
+## Master and Undergraduate Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.ugstudents %}
 
