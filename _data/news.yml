@@ -1,21 +1,8 @@
-- date: 05/09/19
-  title: "Another great thing"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: 18. December 2022
+  headline: test defends his PhD. Contratulations! 
 
-- date: 03/09/19
-  title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: 23. May 2022
+  headline: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740), and one on [shot-noise of individual (putative) Majorana modes](https://arxiv.org/abs/2205.10346)."
+
+- date: 17. March 2022
+  headline: "Milan wins an ERC CoG grant! See [Leiden news](https://www.universiteitleiden.nl/en/news/2022/03/understanding-superconductivity-comes-closer-with-major-erc-grant-for-milan-allan). <img src='/images/newspic/erclogo.png' class='img-responsive' style='max-width: 192px' />"
