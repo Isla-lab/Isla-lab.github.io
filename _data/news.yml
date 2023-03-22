@@ -1,15 +1,15 @@
 
-- date: March 10, 2023
-  headline: "The paper Synthesis and Monitoring of Complex Tasks for Heterogeneous Robots in an Industry 4.0 Scenario has been accepted at IAS-17. Congrats Francesco!"
-  descr: Our paper "Synthesis and Monitoring of Complex Tasks for Heterogeneous Robots in an Industry 4.0 Scenario" has been accepted at  Proceedings of the 17th International Conference Intelligent Autonomous Systems (IAS-17)."
+# - date: March 10, 2023
+#   headline: "The paper Synthesis and Monitoring of Complex Tasks for Heterogeneous Robots in an Industry 4.0 Scenario has been accepted at IAS-17. Congrats Francesco!"
+#   descr: Our paper "Synthesis and Monitoring of Complex Tasks for Heterogeneous Robots in an Industry 4.0 Scenario" has been accepted at  Proceedings of the 17th International Conference Intelligent Autonomous Systems (IAS-17)."
 
-- date: January 31, 2023
-  headline: "The paper Online Safety Properties Collection and Refinement for Deep Reinforcement Learning Mapless Navigation has been accepted at ICRA 23. Congrats Luca!"
-  descr: Our paper Online Safety Properties Collection and Refinement for Deep Reinforcement Learning Mapless Navigation has been accepted at 2023 IEEE International Conference on Robotics and Automation (ICRA)."
+# - date: January 31, 2023
+#   headline: "The paper Online Safety Properties Collection and Refinement for Deep Reinforcement Learning Mapless Navigation has been accepted at ICRA 23. Congrats Luca!"
+#   descr: Our paper Online Safety Properties Collection and Refinement for Deep Reinforcement Learning Mapless Navigation has been accepted at 2023 IEEE International Conference on Robotics and Automation (ICRA)."
 
-- date: January 20, 2023
-  headline: "The paper Safe Deep Reinforcement Learning by Verifying Task-Level Properties and "Learning Logic Specifications for Soft Policy Guidance in POMCP" have been accepted at AAMAS 23. Congrats, Luca, Daniele and Alberto!"
-  descr: "Our papers Safe Deep Reinforcement Learning by Verifying Task-Level Properties and Learning Logic Specifications for Soft Policy Guidance in POMCP have been accepted at at the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)."
+# - date: January 20, 2023
+#   headline: "The paper Safe Deep Reinforcement Learning by Verifying Task-Level Properties and "Learning Logic Specifications for Soft Policy Guidance in POMCP" have been accepted at AAMAS 23. Congrats, Luca, Daniele and Alberto!"
+#   descr: "Our papers Safe Deep Reinforcement Learning by Verifying Task-Level Properties and Learning Logic Specifications for Soft Policy Guidance in POMCP have been accepted at at the 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)."
 
 - date: January 10, 2023
   headline: "The paper Verifying Learning-Based Robotic Navigation Systems has been accepted at TACAS 23. Congrats, Davide and Luca!"
