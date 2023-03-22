@@ -30,7 +30,7 @@ permalink: /members/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive profile" style="float: left" />
   <h4>{{ member.name }}</h4>
   <a href="{{ member.website }}">Personal Website</a>
-  <br/><i>{{ member.info }} align="justify"</i>
+  <br/><i>{{ member.info }}</i>
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
