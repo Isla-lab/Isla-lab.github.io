@@ -8,11 +8,13 @@ permalink: /members/
 
 # Group Members
 
- Multiple Ph.D. positions in our research group are currently available. Promising candidates (GRE 310+, TOEFL 100+, GPA 3.8+, publication) will be financially supported. If interested, please email your resume to [ajawad@ncsu.edu](mailto:ajawad@ncsu.edu). Please specify which area interests you:
+ Multiple Master and Bachelor thesis are available in our research group are currently available. If interested, please email to [isla.univr@gmail.com](mailto:isla.univr@gmail.com) or to [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Please specify which area interests you:
 
-* Secure Architectures: Access pattern obfuscation, memory encryption, and data integrity efficient verification schemes
-* Non-Volatile Memory Technologies: Memory management and filesystem optimizations
-* Internet of Things (IoT) Devices: Security and Performance
+* Artificial Intelligence algorithms (Deep Reinforcement Learning) for Autonomous Surface Vehicles.
+* Situation Awareness and Safe Navigation for Drones.
+* Deep Reinforcement Learning for Robotic Systems in Complex Environments with Unity3D.
+* Formal Verification methods for Deep Neural Networks.
+* Monte Carlo Methods for solving POMDP
 
 ## Director
 {% assign number_printed = 0 %}
@@ -76,6 +78,56 @@ permalink: /members/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## Faculty
+{% assign number_printed = 0 %}
+{% for member in site.data.faculty %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <a href="{{ member.website }}">Personal Website</a>
+  <br/><i>{{ member.info }}</i>
+  <ul style="overflow: hidden">
+  
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+ 
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+  
+  </ul>
+</div>
 
 ## Ph.D. Students
 {% assign number_printed = 0 %}
