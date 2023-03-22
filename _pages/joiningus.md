@@ -1,7 +1,7 @@
 ---
-title: "ISLa - Join SACA?"
+title: "ISLa - Join ISLa?"
 layout: contact
-excerpt: "SACA Group Contact"
+excerpt: "ISLa Group Contact"
 sitemap: false
 permalink: /joiningus/
 ---
@@ -38,6 +38,6 @@ I recommend that you go through one of our recent publications (see Publication 
 Rarely, and I don't fund independent studies. 
 
 
-If interested, you can visit our lab or contact me through my email.
+If interested, you can visit our lab or contact us through my email.
 
 
