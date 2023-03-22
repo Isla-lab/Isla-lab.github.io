@@ -1,6 +1,6 @@
 ---
 title: "ISLa - Join ISLa?"
-layout: contact
+layout: default
 excerpt: "ISLa Group Contact"
 sitemap: false
 permalink: /joiningus/
