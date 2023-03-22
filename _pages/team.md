@@ -142,6 +142,69 @@ permalink: /members/
 </div>
 {% endif %}
 
+## PostDoc
+{% assign number_printed = 0 %}
+{% for member in site.data.postdoc %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <a href="{{ member.website }}">Personal Website</a>
+  <br/><i>{{ member.info }}</i>
+  <ul style="overflow: hidden">
+  
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+  
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+ 
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+  
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ## Ph.D. Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phdstudents %}
@@ -211,60 +274,7 @@ permalink: /members/
 
 -->
 
-## Master and Undergraduate Students 
-{% assign number_printed = 0 %}
-{% for member in site.data.ugstudents %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  <h6>{{ member.expe }}</h6>
-  <ul style="overflow: hidden">
-  
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-  
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-  
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-  
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-  
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 ## Past Members
  <tr> <td> (Diversity statistics are availabe upon request. SACA has a history of training students from diverse and underrepresented groups in STEM.) </td></tr><br/>
@@ -293,13 +303,6 @@ permalink: /members/
   </tr>
 </table>
 
-<h3 style="color:blue;"> <u> Post-Doc Mentees </u> </h3>
-
-<table align="center" style="width:100%">
-  <tr>
-    <td> - Dr. Jian Zhou (UCF), Summer 2020 (<b>co-mentored with Prof. Jun Wang</b>). (<b>first job:</b> Assistant Professor at Huazhong University of Science and Technology).  <br/><b>Achievement:</b> Modeling and evaluation of the Lelantus scheme</td>
-  </tr>
-</table>
 
 
 <h3 style="color:blue;"> <u> Master Graduates </u> </h3>
@@ -313,33 +316,6 @@ permalink: /members/
     <td> - Derrick Greenspan (UCF), Falll 2018 (<b>first employment:</b> PhD student at IST institute in UCF, Orlando)</td>
   </tr>
 </table>
-
-<h3 style="color:blue;"> <u> Undergraduate Mentees </u> </h3>
-<table align="center" style="width:100%">
-   <tr>
-    <td> - Charles Stephens, Spring 2020 (<b>first employment:</b> Embedded Systems Engineer at Motorola)</td>
-  </tr>
-
- <tr>
-    <td> - Ignacio Lopez, Summer 2020 (<b>first employment:</b> IT Engineer at Qualcomm)</td>
-  </tr>
-
-  <tr>
-    <td> - Claudo Afonso, Spring 2019 (<b>first employment:</b> Software Engineer at Microsoft)</td>
-  </tr>
- 
-  <tr>
-    <td> - Nicholas Omusi, Spring 2019 (<b>first employment:</b> Electrical Engineer at Texas Instruments)</td>
-  </tr>
-  <tr>
-    <td> - Andre Villaran, Spring 2019</td>
-  </tr>
-  <tr>
-    <td> - Sannidiyan Rajendra, Spring 2018</td>
-  </tr>
-</table>
-
-
 
 
 <!--
