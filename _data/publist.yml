@@ -23,6 +23,15 @@
       url:
       display: arXiv
 
+  - title: "Online Safety Properties Collection and Refinement for Deep Reinforcement Learning Mapless Navigation"
+    team: "True"
+    description: " IEEE International Conference on Robotics and Automation (ICRA) 2023"
+    authors:
+      Marzari Luca^, Marchesini Enrico^, and Farinelli Alessandro
+    link:
+      url:
+      display: ICRA'23 (Top-Tier Conference)
+
   - title: "Safe Deep Reinforcement Learning by Verifying Task-Level Properties"
     team: "True"
     description: "The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023"
