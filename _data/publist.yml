@@ -5,23 +5,23 @@
 - year: 2023
   pubs:
 
-   - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
-    team: "True"
-    description: "arXiv:arXiv:2303.03207"
-    authors:
-      Corsi Davide*, Marzari Luca*, , Pore Ameya*, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
-    link:
-      url:
-      display: arXiv
+  #  - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
+  #   team: "True"
+  #   description: "arXiv:2303.03207"
+  #   authors:
+  #     Corsi Davide*, Marzari Luca*, , Pore Ameya*, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
+  #   link:
+  #     url:
+  #     display: arXiv
 
-  - title: "The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks"
-    team: "True"
-    description: "arXiv:2301.07068"
-    authors:
-      Marzari Luca*, Corsi Davide*, Cicalese Ferdinando, and Farinelli Alessandro
-    link:
-      url:
-      display: arXiv
+  # - title: "The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks"
+  #   team: "True"
+  #   description: "arXiv:2301.07068"
+  #   authors:
+  #     Marzari Luca*, Corsi Davide*, Cicalese Ferdinando, and Farinelli Alessandro
+  #   link:
+  #     url:
+  #     display: arXiv
 
   - title: "Safe Deep Reinforcement Learning by Verifying Task-Level Properties"
     team: "True"
