@@ -6,13 +6,13 @@
   pubs:
 
   - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
-  team: "True"
-  description: "arXiv:2303.03207"
-  authors:
-    Corsi Davide^, Marzari Luca^, , Pore Ameya^, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
-  link:
-    url:
-    display: arXiv
+    team: "True"
+    description: "arXiv:2303.03207"
+    authors:
+      Corsi Davide^, Marzari Luca^, Pore Ameya^, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
+    link:
+      url:
+      display: arXiv
 
   - title: "The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks"
     team: "True"
@@ -57,11 +57,11 @@
   pubs:
 
   - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
-  description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
-  team: "True"
-  authors:
-    Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
-    url:
-    display: IEEE ICAR'21
+    description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
+    team: "True"
+    authors:
+      Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
+      url:
+      display: IEEE ICAR'21
 
 
