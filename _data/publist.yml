@@ -5,20 +5,11 @@
 - year: 2023
   pubs:
 
-  - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
-    team: "True"
-    description: "arXiv:arXiv:2303.03207"
-    authors:
-      Corsi Davide*, Marzari Luca*, , Pore Ameya*, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego.
-    link:
-      url:
-      display: arXiv
-
    - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
     team: "True"
     description: "arXiv:arXiv:2303.03207"
     authors:
-      Corsi Davide*, Marzari Luca*, , Pore Ameya*, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego.
+      Corsi Davide*, Marzari Luca*, , Pore Ameya*, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
     link:
       url:
       display: arXiv
@@ -27,7 +18,7 @@
     team: "True"
     description: "arXiv:2301.07068"
     authors:
-      Marzari Luca*, Corsi Davide*, Cicalese Ferdinando, and Farinelli Alessandro.
+      Marzari Luca*, Corsi Davide*, Cicalese Ferdinando, and Farinelli Alessandro
     link:
       url:
       display: arXiv
@@ -36,7 +27,7 @@
     team: "True"
     description: "The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023"
     authors:
-      Marchesini Enrico*, Marzari Luca*, Farinelli Alessandro, and Amato Christopher.
+      Marchesini Enrico*, Marzari Luca*, Farinelli Alessandro, and Amato Christopher
     link:
       url:
       display: AAMAS'23 (Top-Tier Conference)
@@ -45,7 +36,7 @@
     team: "True"
     description: " Proc. 29th Int. Conf. on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2023"
     authors:
-      Amir Guy*, Corsi Davide*, Yerushalmi Raz, Marzari Luca, Harel David, Farinelli Alessandro, and Katz Guy.
+      Amir Guy*, Corsi Davide*, Yerushalmi Raz, Marzari Luca, Harel David, Farinelli Alessandro, and Katz Guy
     link:
       url:
       display: TACAS'23 (Top-Tier Conference)
@@ -57,7 +48,7 @@
     description: "37th ACM/SIGAPP Symposium on Applied Computing Proceedings (SAC IRMAS) 2022"
     team: "True"
     authors:
-      Marzari Luca, Corsi Davide, Marchesini Enrico and Farinelli Alessandro.
+      Marzari Luca, Corsi Davide, Marchesini Enrico and Farinelli Alessandro
     link:
       url:
       display: SAC IRMAS'22
@@ -68,10 +59,10 @@
 
 
    - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
-    description: " 20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
+    description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
     team: "True"
     authors:
-      Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo.
+      Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
       url:
       display: IEEE ICAR'21
 
