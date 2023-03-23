@@ -54,16 +54,15 @@
       display: SAC IRMAS'22
 
 
-- year: 2021 
-  pubs:
+# - year: 2021 
+#   pubs:
 
-
-   - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
-    description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
-    team: "True"
-    authors:
-      Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
-      url:
-      display: IEEE ICAR'21
+#    - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
+#     description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
+#     team: "True"
+#     authors:
+#       Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
+#       url:
+#       display: IEEE ICAR'21
 
 
