@@ -1,33 +1,33 @@
 
-- year: All Publications (* indicates equal contribution)
+- year: All Publications (^ indicates equal contribution)
   pubs:
 
 - year: 2023
   pubs:
 
-  #  - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
-  #   team: "True"
-  #   description: "arXiv:2303.03207"
-  #   authors:
-  #     Corsi Davide*, Marzari Luca*, , Pore Ameya*, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
-  #   link:
-  #     url:
-  #     display: arXiv
+   - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
+    team: "True"
+    description: "arXiv2303.03207"
+    authors:
+      Corsi Davide^, Marzari Luca^, , Pore Ameya^, Farinelli Alessandro, Casals Alicia, Fiorini Paolo, Dall'Alba Diego
+    link:
+      url:
+      display: arXiv
 
-  # - title: "The #DNN-Verification problem: Counting Unsafe Inputs for Deep Neural Networks"
-  #   team: "True"
-  #   description: "arXiv:2301.07068"
-  #   authors:
-  #     Marzari Luca*, Corsi Davide*, Cicalese Ferdinando, and Farinelli Alessandro
-  #   link:
-  #     url:
-  #     display: arXiv
+  - title: "The #DNN-Verification problem Counting Unsafe Inputs for Deep Neural Networks"
+    team: "True"
+    description: "arXiv2301.07068"
+    authors:
+      Marzari Luca^, Corsi Davide^, Cicalese Ferdinando, and Farinelli Alessandro
+    link:
+      url:
+      display: arXiv
 
   - title: "Safe Deep Reinforcement Learning by Verifying Task-Level Properties"
     team: "True"
     description: "The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2023"
     authors:
-      Marchesini Enrico*, Marzari Luca*, Farinelli Alessandro, and Amato Christopher
+      Marchesini Enrico^, Marzari Luca^, Farinelli Alessandro, and Amato Christopher
     link:
       url:
       display: AAMAS'23 (Top-Tier Conference)
@@ -53,16 +53,15 @@
       url:
       display: SAC IRMAS'22
 
+- year: 2021 
+  pubs:
 
-# - year: 2021 
-#   pubs:
-
-#    - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
-#     description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
-#     team: "True"
-#     authors:
-#       Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
-#       url:
-#       display: IEEE ICAR'21
+   - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
+    description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
+    team: "True"
+    authors:
+      Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
+      url:
+      display: IEEE ICAR'21
 
 
