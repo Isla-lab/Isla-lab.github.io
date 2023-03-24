@@ -8,14 +8,14 @@ permalink: /research/
 
 # Research
 
-Our research group focuses on the future of secure architectures and memory systems. This includes topics such as non-volatile memory, distributed memory, and IoT devices.
+Our research group aims at developing methodological and applied research in Artificial Intelligence, Machine Learning and data analysis for intelligent systems.
 
-#### Secure Architectures
-Computer architects design the processors that power today's data driven world. As computers leverage this data, the memory systems become increasingly vital to the security and operation of systems.
+#### Artificial Intelligence algorithms (Safe Deep Reinforcement Learning) for Autonomous Surface Vehicles
+In recent years, Deep Reinforcement Learning (RL) has emerged as a powerful technique to solve complex problems in a variety of applications, reaching and often outperforming classical algorithms and humans. Our research focuses mainly in novel RL methodologies that address the problem of safety, i.e., the application of RL solutions to problems and domains involving interaction with humans, hazardous situations and expensive hardware.
 
-Disaggregated memory systems, or systems with memory distributed over a network, are used to store information while working with data in High Performance Compute (HPC) clusters. How can you have a safe network over which data is shared, while minimizing overhead?
+In particular, we propose to exploit DRL to generate a DNN-based real-time controller for the water monitoring drone and mobile robotics.
 
-Our thrust into secure architectures focuses on the security of memory systems in computers such as encryption, obfuscation, and efficient data integrity verification schemes. 
+<img src="../images/research/research1.png" alt= “” width="50%" height="50%">
 
 #### Non-Volatile Memory
 Non-Volatile Memory technologies (such as [3D XPoint](https://en.wikipedia.org/wiki/3D_XPoint)) are gaining traction in the world of computer architecture today. It has the advantage of lower power consumption, and greater capacity than traditional DRAM based memory technologies.
