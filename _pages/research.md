@@ -53,7 +53,7 @@ DNNs have shown impressive performance in various tasks. However, the vulnerabil
 </p>
 
 
-#### Multi-Robot Coordination and anomalies detection
+#### Multi-Robot Coordination, Anomaly Detection and Recovery
 
 Implement and evaluate coordination approaches for Multi-robot systems. Design coordination approaches for robotic agents involved in indoor logistic operations (e.g., pickup and delivery). Test the solution on a widely used simulation environments (ROS + stage) and possibly on real platforms (turtlebot, RB-KAIROS);
 
