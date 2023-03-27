@@ -283,22 +283,9 @@ permalink: /members/
 <table align="center" style="width:100%">
 
   <tr>
-    <td> - Dr. Kazi Zubair (NC State), Summer 2022 (<b>Currently:</b> CPU Architect at Intel (Product Team) in Santa Clara).  <br/><b>PhD achievements:</b> (1) Designing, modeling and evaluation for ultra-fast crash recovery schemes of secure NVMs (2) Inventing and evaluating novel schemes for improving reliability of secure NVMs. (3) Evaluating and designing efficient hardware support for supporting filesystem encryption in NVMs. </td>
+    <td> - Students </td>
  </tr>
 
-
-  <tr>
-    <td> - Dr. Vamsee Reddy (UCF), Spring 2021 (<b>Currently:</b> Member of Technical Staff at AMD Research in Bellevue).  <br/><b>PhD achievements:</b> (1) Modeling of disaggregated NVM systems. (2) Modeling and evaulation of DeACT. (3) Inventing various QoS schemes in disaggregated memory systems..</td>
-  </tr>
-
-
-  <tr>
-    <td> - Dr. Mazen Alwadi (UCF), Spring 2021 (<b>Currently:</b> Assisant Professor at Jordan University of Science and Technology in Irbid Jordan).  <br/><b>PhD achievements:</b> (1) Invention of the Phoenix scheme. (2) Design, modeling and evaluation of Stealth-Persist. (3) Modeling and evaluation of Minerva.</td>
-  </tr>
-
-  <tr>
-    <td> - Dr. Mao Ye (UCF), Spring 2020 (<b>first employment:</b> AMD (Product Team) in Orlando).  <br/><b>PhD achievement:</b> Modeling and evaluation of the Osiris scheme</td>
-  </tr>
 </table>
 
 
