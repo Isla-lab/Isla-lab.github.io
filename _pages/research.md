@@ -15,7 +15,9 @@ In recent years, Deep Reinforcement Learning (RL) has emerged as a powerful tech
 
 In particular, we propose to exploit DRL to generate a DNN-based real-time controller for the water monitoring drone and mobile robotics.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/research1.png" width="50%" height="50%" />
+<p align="center">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/research1.png" width="55%" height="55%" />   
+</p>
 
 #### Non-Volatile Memory
 Non-Volatile Memory technologies (such as [3D XPoint](https://en.wikipedia.org/wiki/3D_XPoint)) are gaining traction in the world of computer architecture today. It has the advantage of lower power consumption, and greater capacity than traditional DRAM based memory technologies.
