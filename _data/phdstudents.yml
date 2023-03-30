@@ -2,7 +2,7 @@
   photo: mzuccotto.jpg
   website: 
 
-  info: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  info: Maddalena Zuccotto is a Ph.D. student at the University of Verona focusing on probabilistic planning and reinforcement learning techniques. Her work focuses on Monte Carlo tree search based planning under uncertainty and introduction of prior knowledge in model-based reinforcement learning. Main applications are related to intelligent systems, such as cyber-physical and robotic systems.
 
 
 
@@ -10,7 +10,8 @@
   photo: fbianchi.jpg
   website:
   
-  info: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  info:  Federico Bianchi is a Ph.D. student in Computer Science at the University of Verona, advised by Prof. Alberto Castellini and Prof. Alessandro Farinelli.
+  His research focuses on the development of scalable Safe Policy Improvement methods in real-world environments, that guarantee an increase in performance while respecting safety constraints. He is also focusing on the development of Safe Policy Improvement methods for multi-agent systems and strategic planning methods based on Monte Carlo Tree Search in continuous domains.
 
 - name: Francesco Trotti
   photo: ftrotti.jpeg

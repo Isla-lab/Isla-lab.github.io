@@ -30,7 +30,7 @@
       Marzari Luca^, Marchesini Enrico^, and Farinelli Alessandro
     link:
       url:
-      display: ICRA'23 (Top-Tier Conference)
+      display: ICRA'23
 
   - title: "Safe Deep Reinforcement Learning by Verifying Task-Level Properties"
     team: "True"
@@ -39,19 +39,73 @@
       Marchesini Enrico^, Marzari Luca^, Farinelli Alessandro, and Amato Christopher
     link:
       url:
-      display: AAMAS'23 (Top-Tier Conference)
+      display: AAMAS'23
 
   - title: "Verifying Learning-Based Robotic Navigation Systems"
     team: "True"
     description: " Proc. 29th Int. Conf. on Tools and Algorithms for the Construction and Analysis of Systems (TACAS) 2023"
     authors:
-      Amir Guy*, Corsi Davide*, Yerushalmi Raz, Marzari Luca, Harel David, Farinelli Alessandro, and Katz Guy
+      Amir Guy^, Corsi Davide^, Yerushalmi Raz, Marzari Luca, Harel David, Farinelli Alessandro, and Katz Guy
     link:
       url:
-      display: TACAS'23 (Top-Tier Conference)
+      display: TACAS'23
 
 - year: 2022
   pubs:
+
+  - title: "Exploring Safer Behaviors for Deep Reinforcement Learning"
+    description: "The 36th AAAI Conference on Artificial Intelligence (AAAI 2022)"
+    team: "True"
+    authors:
+      Enrico Marchesini^, Davide Corsi^ and Alessandro Farinelli.
+    link:
+      url:
+      display: AAAI 2022
+
+  - title: "IoT Systems for Healthy and Safe Life Environments"
+    description: "7th IEEE Forum on Research and Technologies for Society and Industry Innovation, RTSI (2022)"
+    team: "True"
+    authors:
+      Martina Capuzzo, Andrea Zanella, Maddalena Zuccotto, Federico Cunico, Marco Cristani, Alberto Castellini, Alessandro Farinelli, Luciano Gamberini.
+    link:
+      url:
+      display: IEEE RTSI 2022
+
+  - title: "Learning State-Variable Relationships in POMCP: A Framework for Mobile Robots"
+    description: "Frontiers in Robotics and AI (2022)"
+    team: "True"
+    authors:
+      Maddalena Zuccotto, Marco Piccinelli, Alberto Castellini, Enrico Marchesini and Alessandro Farinelli.
+    link:
+      url:
+      display: Frontiers in Robotics and AI 2022
+
+  - title: "Learning state-variable relationships for improving POMCP performance"
+    description: "37th ACM/SIGAPP Symposium on Applied Computing Proceedings (SAC IRMAS) 2022"
+    team: "True"
+    authors:
+      Maddalena Zuccotto, Alberto Castellini, Alessandro Farinelli.
+    link:
+      url:
+      display: SAC IRMAS '22
+
+  - title: "Monte Carlo Tree Search Planning for continuous action and state spaces"
+    description: "The 21st International Conference of the Italian Association for Artificial Intelligence (AIxIA 2022)"
+    team: "True"
+    authors:
+      Federico Bianchi, Lorenzo Bonanni, Alberto Castellini, Alessandro Farinelli
+    link:
+      url:
+      display: AIxIA '22
+
+  - title: "Generation and interpretation of parsimonious predictive models for load forecasting in smart heating networks"
+    description: "Applied Intelligence"
+    team: "True"
+    authors:
+      Alberto Castellini, Federico Bianchi, Alessandro Farinelli
+    link:
+      url:
+      display: Applied Intelligence
 
   - title: "Curriculum Learning for Safe Mapless Navigation"
     description: "37th ACM/SIGAPP Symposium on Applied Computing Proceedings (SAC IRMAS) 2022"
@@ -60,10 +114,56 @@
       Marzari Luca, Corsi Davide, Marchesini Enrico, and Farinelli Alessandro
     link:
       url:
-      display: SAC IRMAS'22
+      display: SAC IRMAS '22
 
 - year: 2021 
   pubs:
+
+  - title: "Benchmarking Safe Deep Reinforcement Learning in Aquatic Navigation"
+    description: "The 2021 International Conference on Intelligent Robots and Systems (IROS 2021)"
+    team: "True"
+    authors:
+      Davide Corsi^, Enrico Marchesini^ and Alessandro Farinelli
+    link:
+      url:
+      display: IROS '21
+
+  - title: "Safe Reinforcement Learning using Formal Verification for Tissue Retraction in Autonomous Robotic-Assisted Surgery"
+    description: "The 2021 International Conference on Intelligent Robots and Systems (IROS 2021)"
+    team: "True"
+    authors:
+      Ameya Pore^, Davide Corsi^, Enrico Marchesini^, Diego Dall’Alba, Alicia Casals, Alessandro Farinelli and Paolo Fiorini
+    link:
+      url:
+      display: IROS '21
+
+
+  - title: "Formal Verification of Neural Networks for Safety-Critical Tasks in Deep Reinforcement Learning"
+    description: "The 37th Conference on Uncertainty in Artificial Intelligence (UAI)."
+    team: "True"
+    authors:
+      Davide Corsi^, Enrico Marchesini^ and Alessandro Farinelli
+    link:
+      url:
+      display: UAI '21
+
+  - title: "Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning"
+    description: "The 9th International Conference on Learning Representations (ICLR)"
+    team: "True"
+    authors:
+      Enrico Marchesini, Davide Corsi and Alessandro Farinelli.
+    link:
+      url:
+      display: ICLR '21
+
+  - title: "Learning environment properties in Partially Observable Monte Carlo Planning"
+    description: "AIRO@AI*IA (2021)"
+    team: "True"
+    authors:
+      Maddalena Zuccotto, Alberto Castellini, Marco Piccinelli, Enrico Marchesini and Alessandro Farinelli
+    link:
+      url:
+      display: AIRO@AI*IA '21
 
   - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
     description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
@@ -72,6 +172,19 @@
       Marzari Luca, Pore Ameya, Dall'Alba Diego, Aragon-Camarasa Gerardo, Farinelli Alessandro, and Fiorini Paolo
     link:
       url:
-      display: IEEE ICAR'21
+      display: IEEE ICAR '21
 
 
+- year: 2020
+  pubs:
+
+    - title: "Time series segmentation for state-model generation of autonomous aquatic drones: A systematic framework"
+      description: "Engineering Applications of Artificial Intelligence (EAAI) 2020"
+      team: "True"
+      authors:
+        Maddalena Zuccotto, Alberto Castellini, Marco Piccinelli, Enrico Marchesini and Alessandro Farinelli
+      link:
+        url:
+        display: EAAI '20
+
+  
