@@ -1,7 +1,7 @@
 ---
-title: "SACA - Publications"
+title: "ISLa - Publications"
 layout: gridlay
-excerpt: "SACA Group Publications."
+excerpt: "ISLa Group Publications."
 sitemap: false
 permalink: /publications/
 ---

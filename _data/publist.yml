@@ -157,13 +157,13 @@
       display: ICLR '21
 
   - title: "Learning environment properties in Partially Observable Monte Carlo Planning"
-    description: "AIRO@AI*IA (2021)"
+    description: "AIRO@AIxIA (2021)"
     team: "True"
     authors:
       Maddalena Zuccotto, Alberto Castellini, Marco Piccinelli, Enrico Marchesini and Alessandro Farinelli
     link:
       url:
-      display: AIRO@AI*IA '21
+      display: AIRO@AIxIA '21
 
   - title: "Towards Hierarchical Task Decomposition using Deep Reinforcement Learning for Pick and Place Subtasks"
     description: "20th IEEE International Conference on Advanced Robotics (ICAR) 2021"
