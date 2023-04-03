@@ -5,6 +5,15 @@
 - year: 2023
   pubs:
 
+  - title: "Logic programming for deliberative robotic task planning"
+    team: "True"
+    description: "Artificial Intelligence Review"
+    authors:
+      Daniele Meli, Hirenkumar Nakawala and Paolo Fiorini
+    link:
+      url:
+      display: Artificial Intelligence Review
+
   - title: "Constrained Reinforcement Learning and Formal Verification for Safe Colonoscopy Navigation"
     team: "True"
     description: "arXiv:2303.03207"
@@ -52,6 +61,24 @@
 
 - year: 2022
   pubs:
+
+  - title: "Deliberation in autonomous robotic surgery: a framework for handling anatomical uncertainty"
+    description: "IEEE International Conference on Robotics and Automation (ICRA)"
+    team: "True"
+    authors:
+      Eleonora Tagliabue, Daniele Meli, Diego Dall'alba and Paolo Fiorini
+    link:
+      url:
+      display: ICRA'22
+
+  - title: "From POMDP executions to policy specifications"
+    description: "CEUR Workshop Proceedings"
+    team: "True"
+    authors:
+      Daniele Meli, Giulio Mazzi, Alberto Castellini and Alessandro Farinelli
+    link:
+      url:
+      display: CEUR Workshop Proceedings
 
   - title: "Exploring Safer Behaviors for Deep Reinforcement Learning"
     description: "The 36th AAAI Conference on Artificial Intelligence (AAAI 2022)"
@@ -118,6 +145,33 @@
 
 - year: 2021 
   pubs:
+
+  - title: "Dynamic Movement Primitives: Volumetric Obstacle Avoidance Using Dynamic Potential Functions"
+    description: "Journal of Intelligent and Robotic Systems: Theory and Applications"
+    team: "True"
+    authors:
+      Marco Ginesi, Daniele Meli, Andrea Roberti, Nicola Sansonetto and Paolo Fiorini
+    link:
+      url:
+      display: "Journal of Intelligent and Robotic Systems: Theory and Applications"
+
+  - title: "Inductive learning of answer set programs for autonomous surgical task planning: Application to a training task for surgeons"
+    description: "Machine Learning"
+    team: "True"
+    authors:
+      Daniele Meli, M. Sridharan and Paolo Fiorini
+    link:
+      url:
+      display: Machine Learning
+
+  - title: "Unsupervised Identification of Surgical Robotic Actions from Small Homogeneous Datasets"
+    description: "IEEE Robotics and Automation Letters"
+    team: "True"
+    authors:
+      Daniele Meli and Paolo Fiorini
+    link:
+      url:
+      display: RA-L'21
 
   - title: "Benchmarking Safe Deep Reinforcement Learning in Aquatic Navigation"
     description: "The 2021 International Conference on Intelligent Robots and Systems (IROS 2021)"

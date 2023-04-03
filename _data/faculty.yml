@@ -8,9 +8,9 @@
 
 
 - name: Daniele Meli, Ph.D.
-  photo: daniele.jpg
+  photo: daniele.png
   
 
-  info: Daniele Meli is a tenure-track researcher (Rtd-a) at the Computer Science department of the University of Verona. His research interests focus on the development of Artificial Intelligence, Machine Learning and Data Analysis techniques, with applications on intelligent systems of various kinds, such as, cyber-physical systems, robotic systems, smart grids and smart buildings. The main methodologies he works on are predictive models for multivariate time series, methods for planning under uncertainty, reinforcement learning, regression and clustering techniques, interpretability of predictive models, situation assessment and anomaly detection. 
+  info: Daniele Meli received his Master’s degree in Automation Engineering from Politecnico di Bari, IT, in 2017, and his PhD in Computer Science at University of Verona in 2021. He is currently a research fellow and assistant professor in Artificial intelligence at University of Verona. His research is mainly focused on robotics and artificial intelligence, specifically on explainable and trustworthy AI, inductive logic programming and merging symbolic and probabilistic AI.
 
-  email: alberto.castellini@univr.it
+  email: daniele.meli@univr.it
