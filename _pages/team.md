@@ -278,43 +278,43 @@ permalink: /members/
 
 
 
-<h3 style="color:blue;"> <u> Bachelor and Master students </u> </h3>
+<h3 style="color:blue;"> <u> Alumni </u> </h3>
 
 <table align="center" style="width:100%">
 
   <tr>
-    <td> - Davide Corsi. Thesis title: "Safe Deep Reinforcement Learning: Enhancing the Reliability of Intelligent Systems". (PhD cycle XXXV).
-      Davide Corsi is a Postdoctoral Associate at University o f California Irvine (updated on 2024).  </td>
+    <td> - <b>Davide Corsi</b>. Thesis title: "Safe Deep Reinforcement Learning: Enhancing the Reliability of Intelligent Systems". (PhD cycle XXXV).
+      Davide Corsi is a Postdoctoral Associate at University of California Irvine (updated on 2024).  </td>
     </tr>
     <tr>
-    <td> - Adrià Fenoy. 
+    <td> - <b>Adrià Fenoy</b>. 
       Thesis title: "Combining Optimization and Machine Learning for the Formation of Collectives". (PhD cycle XXXV).
       Adrià Fenoy is an AI engineer at MeteoSim (updated on 2024) 
       </td>
       </tr>
       <tr>
-    <td> - Giulio Mazzi. 
+    <td> - <b>Giulio Mazzi</b>. 
 Thesis title: "Rule-Based Policy Interpretation and Shielding for Partially Observable Monte Carlo Planning" (PhD cycle XXXIV). </td>
   </tr>
   <tr>
-    <td> - Enrico Marchesini. 
+    <td> - <b>Enrico Marchesini</b>. 
 Thesis title: "Enhancing Exploration and Safety in Deep Reinforcement Learning". (PhD cycle XXXIV). Erico Marchesini is a Postdoctoral Associate at Massachusetts Institute of Technology (MIT) (updated on 2024).
  </td>
    </tr>
      <tr>
-    <td> - Riccardo Sartea. 
+    <td> - <b>Riccardo Sartea</b>. 
 Thesis title: "Active Malware Analysis based on reinforcement learning techniques". (PhD cycle XXXII). Riccardo Sartea is Data Scientist at Amazon Web Services (AWS) (updated on 2024). </td>
   </tr>
     <tr>
-    <td> - Lorenzo Bottarelli. 
+    <td> - <b>Lorenzo Bottarelli</b>. 
 Thesis Title: "Optimizing Information Gathering for Environmental Monitoring Applications". (PhD Cycle XXXI). Lorenzo Bottarelli is head of Machine Learning at Ignitia AB (updated on 2024). </td>
   </tr>
     <tr>
-    <td> - Masoume M. Raeissi. 
+    <td> - <b>Masoume M. Raeissi</b>. 
 Thesis Title: "Modeling Supervisory Control in Multi-Robot Applications". (PhD cycle XXX). Masoume Raeissi is Research Associate (AI) at Wageningen University & Research (updated on 2024) </td>
   </tr>
     <tr>
-    <td> - Filippo Bistaffa. 
+    <td> - <b>Filippo Bistaffa</b>. 
 Thesis Title: "Constraint Optimisation Techniques for Real-World Applications". (PhD Cycle XXVIII).
 Filippo Bistaffa is tenured researcher at IIIA-CSIC (updated on 2024) </td>
  </tr>
