@@ -17,7 +17,7 @@ We have multiple research project available regarding the following topics:
 * Formal Verification methods for Deep Neural Networks.
 * Monte Carlo Methods for solving POMDP
 
-The best way to contact us is to email at [isla.univr@gmail.com](mailto:isla.univr@gmail.com) or to [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Additionally, Professor Farinelli's office is located at 1.64B, and the lab is located at 1.63C, Cà vignal 2, Department of Computer Science Strada le grazie, 15 Verona, Italy.
+The best way to contact us is to email at [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Additionally, Professor Farinelli's office is located at 1.64B, and the lab is located at 1.63C, Cà vignal 2, Department of Computer Science Strada le grazie, 15 Verona, Italy.
 
 
 
