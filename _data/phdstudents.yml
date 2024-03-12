@@ -15,8 +15,7 @@
   photo: ftrotti.jpeg
   website: https://francescotrotti.github.io
   
-  info: Francesco Trotti is a Ph.D. student in Computer Science at the University of Verona in collaboration with Leonardo S.p.A.
-His research focuses on developing control techniques that integrate nonlinear control strategies with online reinforcement learning model-based algorithms while considering model and/or environment uncertainties. He also focuses on designing control strategies for multi-agent systems, particularly emphasizing the collaboration and coordination aspects of multi-agents. The possible application ranges from designing controllers for manned or unmanned fixed-wing sub/supersonic vehicles to controlling robotic manipulators or mobile robots.
+  info: Francesco Trotti is a Ph.D. student in Computer Science at the University of Verona in collaboration with Leonardo S.p.A. His research focuses on developing control techniques that integrate nonlinear control strategies with online reinforcement learning model-based algorithms while considering model and/or environment uncertainties. He also focuses on designing control strategies for multi-agent systems, particularly emphasizing the collaboration and coordination aspects of multi-agents. The possible application ranges from designing controllers for manned or unmanned fixed-wing sub supersonic vehicles to controlling robotic manipulators or mobile robots.
 
 - name: Luca Marzari
   photo: lmarza.jpeg
