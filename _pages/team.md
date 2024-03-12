@@ -7,14 +7,14 @@ permalink: /members/
 ---
 
 # Group Members
+Multiple Master's and Bachelor's thesis are currently available in our research group. If interested, please email to [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Please specify your area of interest:
 
- Multiple Master and Bachelor thesis are currently available in our research group. If interested, please email to [isla.univr@gmail.com](mailto:isla.univr@gmail.com) or to [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Please specify which area interests you:
-
-* Artificial Intelligence algorithms (Deep Reinforcement Learning) for Autonomous Surface Vehicles.
-* Situation Awareness and Safe Navigation for Drones.
+* Artificial Intelligence algorithms for Autonomous Surface Vehicles.
 * Deep Reinforcement Learning for Robotic Systems in Complex Environments with Unity3D.
+* Situation Awareness and Safe Navigation for Drones.
 * Formal Verification methods for Deep Neural Networks.
-* Monte Carlo Methods for solving POMDP
+* Neurosymbolic AI.
+* Monte Carlo Methods for solving POMDP.
 
 ## Director
 {% assign number_printed = 0 %}
