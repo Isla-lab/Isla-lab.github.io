@@ -15,7 +15,8 @@
   photo: ftrotti.jpeg
   website: https://francescotrotti.github.io
   
-  info: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  info: Francesco Trotti is a Ph.D. student in Computer Science at the University of Verona in collaboration with Leonardo S.p.A.
+His research focuses on developing control techniques that integrate nonlinear control strategies with online reinforcement learning model-based algorithms while considering model and/or environment uncertainties. He also focuses on designing control strategies for multi-agent systems, particularly emphasizing the collaboration and coordination aspects of multi-agents. The possible application ranges from designing controllers for manned or unmanned fixed-wing sub/supersonic vehicles to controlling robotic manipulators or mobile robots.
 
 - name: Luca Marzari
   photo: lmarza.jpeg
