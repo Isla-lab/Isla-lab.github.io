@@ -283,10 +283,40 @@ permalink: /members/
 <table align="center" style="width:100%">
 
   <tr>
-    <td> - Students </td>
+    <td> - Davide Corsi. Thesis title: "Safe Deep Reinforcement Learning: Enhancing the Reliability of Intelligent Systems". (PhD cycle XXXV).
+      Davide Corsi is a Postdoctoral Associate at University o f California Irvine (updated on 2024).  </td>
+    <td> - Adrià Fenoy. 
+      Thesis title: "Combining Optimization and Machine Learning for the Formation of Collectives". (PhD cycle XXXV).
+      Adrià Fenoy is an AI engineer at MeteoSim (updated on 2024) </td>
+    <td> - Giulio Mazzi. 
+Thesis title: "Rule-Based Policy Interpretation and Shielding for Partially Observable Monte Carlo Planning" (PhD cycle XXXIV). </td>
+    <td> - Enrico Marchesini. 
+Thesis title: "Enhancing Exploration and Safety in Deep Reinforcement Learning". (PhD cycle XXXIV). Erico Marchesini is a Postdoctoral Associate at Massachusetts Institute of Technology (MIT) (updated on 2024).
+ </td>
+    <td> - Riccardo Sartea. 
+Thesis title: "Active Malware Analysis based on reinforcement learning techniques". (PhD cycle XXXII). Riccardo Sartea is Data Scientist at Amazon Web Services (AWS) (updated on 2024). </td>
+    <td> - Lorenzo Bottarelli. 
+Thesis Title: "Optimizing Information Gathering for Environmental Monitoring Applications". (PhD Cycle XXXI). Lorenzo Bottarelli is head of Machine Learning at Ignitia AB (updated on 2024). </td>
+    <td> - Masoume M. Raeissi. 
+Thesis Title: "Modeling Supervisory Control in Multi-Robot Applications". (PhD cycle XXX). Masoume Raeissi is Research Associate (AI) at Wageningen University & Research (updated on 2024) </td>
+    <td> - Filippo Bistaffa. 
+Thesis Title: "Constraint Optimisation Techniques for Real-World Applications". (PhD Cycle XXVIII).
+Filippo Bistaffa is tenured researcher at IIIA-CSIC (updated on 2024) </td>
+
+
  </tr>
 
 </table>
+
+
+
+ 
+
+
+
+
+
+
 
 
 
