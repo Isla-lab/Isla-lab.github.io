@@ -2,6 +2,18 @@
 - year: All Publications (^ indicates equal contribution)
   pubs:
 
+- year: 2024
+  pubs:
+
+  - title: "Reinforcement learning applications in environmental sustainability: a review"
+    team: "True"
+    description: "Artificial Intelligence Review"
+    authors:
+      Maddalena Zuccotto, Alberto Castellini, Davide La Torre, Lapo Mola and Alessandro Farinelli 
+    link:
+      url:
+      display: Artificial Intelligence Review
+
 - year: 2023
   pubs:
 
