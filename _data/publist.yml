@@ -14,8 +14,63 @@
       url:
       display: Artificial Intelligence Review
 
+  - title: "Learning logic specifications for policy guidance in POMDPs: an inductive logic programming approach"
+    team: "True"
+    description: "Journal of Artificial Intelligence Research (JAIR)"
+    authors:
+      Daniele Meli, Alberto Castellini, and Alessandro Farinelli 
+    link:
+      url:
+      display: Journal of Artificial Intelligence Research (JAIR)
+  
+
 - year: 2023
   pubs:
+
+  - title: "Learning Logic Specifications for Soft Policy Guidance in POMCP"
+    team: "True"
+    description: "22th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
+    authors:
+      Giulio Mazzi, Daniele Meli, Alberto Castellini and Alessandro Farinelli
+    link:
+      url:
+      display: 22th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)
+      
+  - title: "Scalable Safe Policy Improvement via Monte Carlo Tree Search"
+    team: "True"
+    description: "40th International Conference on Machine Learning (ICML)"
+    authors:
+      Alberto Castellini, Federico Bianchi, Edoardo Zorzi, Thiago D. Simão, Alessandro Farinelli and Matthijs T. J. Spaan
+    link:
+      url:
+      display: 40th International Conference on Machine Learning (ICML)
+
+  - title: "Adversarial Data Augmentation for HMM-based Anomaly Detection"
+    team: "True"
+    description: "IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)"
+    authors:
+      Alberto Castellini, Francesco Masillo, Davide Azzalini, Francesco Amigoni and Alessandro Farinelli
+    link:
+      url:
+      display: IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+      
+  - title: "Risk-aware shielding of Partially Observable Monte Carlo Planning policies"
+    team: "True"
+    description: "Artificial Intelligence"
+    authors:
+      Giulio Mazzi, Alberto Castellini and Alessandro Farinelli
+    link:
+      url:
+      display: Artificial Intelligence
+  
+  - title: "Safe and Efficient Reinforcement Learning for Environmental Monitoring"
+    team: "True"
+    description: "Ital-IA 2023: 3rd National Conference on Artificial Intelligence"
+    authors:
+      Federico Bianchi, Davide Corsi, Luca Marzari, Daniele Meli, Francesco Trotti, Maddalena Zuccotto, Alberto Castellini and Alessandro Farinelli
+    link:
+      url:
+      display: Ital-IA 2023: 3rd National Conference on Artificial Intelligence
 
   - title: "Logic programming for deliberative robotic task planning"
     team: "True"
