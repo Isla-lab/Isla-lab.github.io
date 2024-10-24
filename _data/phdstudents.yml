@@ -1,9 +1,3 @@
-- name: Maddalena Zuccotto
-  photo: mzuccotto.jpg
-  website: 
-
-  info: Maddalena Zuccotto is a Ph.D. student at the University of Verona focusing on probabilistic planning and reinforcement learning techniques. Her work focuses on Monte Carlo tree search based planning under uncertainty and introduction of prior knowledge in model-based reinforcement learning. Main applications are related to intelligent systems, such as cyber-physical and robotic systems.
-
 - name: Federico Bianchi
   photo: fbianchi.jpg
   website:

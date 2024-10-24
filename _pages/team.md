@@ -283,6 +283,10 @@ Multiple Master's and Bachelor's thesis are currently available in our research 
 <table align="center" style="width:100%">
 
   <tr>
+    <td> - <b>Maddelena Zuccotto</b>. Thesis title: "Learning in Monte Carlo Tree Search Planning". (PhD cycle XXXV).</td>
+    </tr>
+    <tr>
+  <tr>
     <td> - <b>Davide Corsi</b>. Thesis title: "Safe Deep Reinforcement Learning: Enhancing the Reliability of Intelligent Systems". (PhD cycle XXXV).
       Davide Corsi is a Postdoctoral Associate at University of California Irvine (updated on 2024).  </td>
     </tr>
@@ -294,7 +298,7 @@ Multiple Master's and Bachelor's thesis are currently available in our research 
       </tr>
       <tr>
     <td> - <b>Giulio Mazzi</b>. 
-Thesis title: "Rule-Based Policy Interpretation and Shielding for Partially Observable Monte Carlo Planning" (PhD cycle XXXIV). </td>
+  Thesis title: "Rule-Based Policy Interpretation and Shielding for Partially Observable Monte Carlo Planning" (PhD cycle XXXIV). </td>
   </tr>
   <tr>
     <td> - <b>Enrico Marchesini</b>. 
