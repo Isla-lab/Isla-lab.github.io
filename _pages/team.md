@@ -284,8 +284,7 @@ Multiple Master's and Bachelor's thesis are currently available in our research 
 
   <tr>
     <td> - <b>Maddelena Zuccotto</b>. Thesis title: "Learning in Monte Carlo Tree Search Planning". (PhD cycle XXXV).</td>
-    </tr>
-    <tr>
+  </tr>
   <tr>
     <td> - <b>Davide Corsi</b>. Thesis title: "Safe Deep Reinforcement Learning: Enhancing the Reliability of Intelligent Systems". (PhD cycle XXXV).
       Davide Corsi is a Postdoctoral Associate at University of California Irvine (updated on 2024).  </td>
@@ -302,7 +301,7 @@ Multiple Master's and Bachelor's thesis are currently available in our research 
   </tr>
   <tr>
     <td> - <b>Enrico Marchesini</b>. 
-Thesis title: "Enhancing Exploration and Safety in Deep Reinforcement Learning". (PhD cycle XXXIV). Erico Marchesini is a Postdoctoral Associate at Massachusetts Institute of Technology (MIT) (updated on 2024).
+Thesis title: "Enhancing Exploration and Safety in Deep Reinforcement Learning". (PhD cycle XXXIV). Enrico Marchesini is a Postdoctoral Associate at Massachusetts Institute of Technology (MIT) (updated on 2024).
  </td>
    </tr>
      <tr>

@@ -7,3 +7,15 @@
 #   email: davide.corsi@univr.it
 
 
+- name: Federico Bianchi
+  photo: fbianchi.jpg
+  website:
+  
+  info: Federico Bianchi is a Ph.D. student in Computer Science at the University of Verona, advised by Prof. Alberto Castellini and Prof. Alessandro Farinelli. His research focuses on the development of scalable Safe Policy Improvement methods in real-world environments, that guarantee an increase in performance while respecting safety constraints. He is also focusing on the development of Safe Policy Improvement methods for multi-agent systems and strategic planning methods based on Monte Carlo Tree Search in continuous domains.
+  
+
+- name: Francesco Trotti
+  photo: ftrotti.jpeg
+  website: https://francescotrotti.github.io
+  
+  info: Francesco Trotti is a Ph.D. candidate in Computer Science at the University of Verona in collaboration with Leonardo S.p.A. His research focuses on developing control techniques that integrate nonlinear control strategies with online reinforcement learning model-based algorithms while considering model and/or environment uncertainties. He also focuses on designing control strategies for multi-agent systems, particularly emphasizing the collaboration and coordination aspects of multi-agents. The possible application ranges from designing controllers for manned or unmanned fixed-wing sub supersonic vehicles to controlling robotic manipulators or mobile robots.
