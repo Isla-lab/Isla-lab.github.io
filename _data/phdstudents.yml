@@ -15,22 +15,24 @@
   photo: ftrotti.jpeg
   website: https://francescotrotti.github.io
   
-  info: Francesco Trotti is a Ph.D. student in Computer Science at the University of Verona in collaboration with Leonardo S.p.A. His research focuses on developing control techniques that integrate nonlinear control strategies with online reinforcement learning model-based algorithms while considering model and/or environment uncertainties. He also focuses on designing control strategies for multi-agent systems, particularly emphasizing the collaboration and coordination aspects of multi-agents. The possible application ranges from designing controllers for manned or unmanned fixed-wing sub supersonic vehicles to controlling robotic manipulators or mobile robots.
+  info: Francesco Trotti is a Ph.D. candidate in Computer Science at the University of Verona in collaboration with Leonardo S.p.A. His research focuses on developing control techniques that integrate nonlinear control strategies with online reinforcement learning model-based algorithms while considering model and/or environment uncertainties. He also focuses on designing control strategies for multi-agent systems, particularly emphasizing the collaboration and coordination aspects of multi-agents. The possible application ranges from designing controllers for manned or unmanned fixed-wing sub supersonic vehicles to controlling robotic manipulators or mobile robots.
 
 - name: Luca Marzari
   photo: lmarza.jpeg
   website: https://lmarza.github.io/
   
-  info: Luca Marzari is a second-year PhD student in Computer Science at University of Verona. His main research interests focus on developing efficient and reliable methods for provably verifying the correctness of Deep Neural Networks (DNNs), particularly in the context of Deep Reinforcement Learning (DRL) applications. He is also developing approximation algorithms with strong theoretical guarantees to bridge the gap between Formal Verification of DNNs and safe DRL.
+  info: is a PhD candidate at the University of Verona, advised by Prof. Alessandro Farinelli and Prof. Ferdinando Cicalese. He has recently been a visiting researcher in the Robotics Institute at Carnegie Mellon University (CMU), advised by Prof. Changliu Liu. His main research interests focus on developing efficient and reliable methods for verifying and enhancing the explainability of deep neural networks (DNNs). He also developed probabilistic verification algorithms with strong theoretical guarantees to bridge the gap between Formal Verification of DNNs and safe deep reinforcement learning. The results of his research resulted in several publications at top-level international conferences and prestigious collaborations with world-leading universities.
 
 - name: Celeste Veronese
-  photo: 
+  photo: ce.jpeg
   website: 
   
-  info: Celeste Veronese is a first-year PhD student in Computer Science at University of Verona. Her main research interests focus on ...
+  info: is a second-year PhD student at the University of Verona, supervised by Prof. Alessandro Farinelli and Daniele Meli, PhD.
+    Her current research focuses on the integration of symbolic, logic-based reasoning and Reinforcement Learning to improve the efficiency, interpretability, and generalization of AI systems, particularly in complex decision-making environments. 
 
 - name: Davide Villaboni
-  photo: 
+  photo: davide.png
   website: 
   
-  info:  Davide Villaboni is a PhD student in Computer Science at University of Verona. His main research interests focus on ...
+  info: is a second-year PhD student at the University of Verona, supervised by Prof. Alessandro Farinelli and Alberto Castellini, PhD.
+    His current research focuses on enhancing forecast prediction through offline reinforcement learning and transformers. 
