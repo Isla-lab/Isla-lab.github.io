@@ -21,8 +21,8 @@ permalink: /projects/
 **Sponsors:** MUR - Ministero dell'Università e della Ricerca (assigned and managed by the department)
 
 
-#### The BEHAVE project will develop new AI methodologies to assess and certify the quality of decisions for intelligent robotic systems. BEHAVE will operate within Spoke 5 in cooperation with the other Spoke partners and will focus on planning and cooperation between humans and robots.
-#### In particular, BEHAVE will address issues related to the formal verification of Deep Neural Networks trained using Deep Reinforcement Learning approaches, in order to certify the behaviors of robots interacting with humans.
+The BEHAVE project will develop new AI methodologies to assess and certify the quality of decisions for intelligent robotic systems. BEHAVE will operate within Spoke 5 in cooperation with the other Spoke partners and will focus on planning and cooperation between humans and robots.
+In particular, BEHAVE will address issues related to the formal verification of Deep Neural Networks trained using Deep Reinforcement Learning approaches, in order to certify the behaviors of robots interacting with humans.
 
 #### Partecipants
 * **Manuele Bicego** - Associate Professor
