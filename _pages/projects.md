@@ -24,14 +24,22 @@ permalink: /projects/
 The BEHAVE project will develop new AI methodologies to assess and certify the quality of decisions for intelligent robotic systems. BEHAVE will operate within Spoke 5 in cooperation with the other Spoke partners and will focus on planning and cooperation between humans and robots.
 In particular, BEHAVE will address issues related to the formal verification of Deep Neural Networks trained using Deep Reinforcement Learning approaches, in order to certify the behaviors of robots interacting with humans.
 
-#### Partecipants
-* **Manuele Bicego** - Associate Professor
-* **Alberto Castellini** - Associate Professor
-* **Ferdinando Cicalese** - Full Professor
-* **Alessandro Farinelli** - Full Professor
-* **Isabella Mastroeni** - Associate Professor
-* **Daniele Meli** - Temporary Assistant Professor
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem;">
 
-<p align="right">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/projects/behave.png" width="55%" height="55%" />   
-</p>
+<div style="flex: 1; min-width: 250px;">
+<h4>Participants</h4>
+<ul>
+  <li><strong>Manuele Bicego</strong> – Associate Professor</li>
+  <li><strong>Alberto Castellini</strong> – Associate Professor</li>
+  <li><strong>Ferdinando Cicalese</strong> – Full Professor</li>
+  <li><strong>Alessandro Farinelli</strong> – Full Professor</li>
+  <li><strong>Isabella Mastroeni</strong> – Associate Professor</li>
+  <li><strong>Daniele Meli</strong> – Temporary Assistant Professor</li>
+</ul>
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/projects/behave.png" alt="BEHAVE project image" style="width: 100%; height: auto;" />
+</div>
+
+</div>
