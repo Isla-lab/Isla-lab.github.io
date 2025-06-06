@@ -1,4 +1,4 @@
----
+r---
 title: "ISLa - Projects"
 layout: textlay
 excerpt: "ISLa Group Projects"
@@ -24,7 +24,7 @@ permalink: /projects/
 The BEHAVE project will develop new AI methodologies to assess and certify the quality of decisions for intelligent robotic systems. BEHAVE will operate within Spoke 5 in cooperation with the other Spoke partners and will focus on planning and cooperation between humans and robots.
 In particular, BEHAVE will address issues related to the formal verification of Deep Neural Networks trained using Deep Reinforcement Learning approaches, in order to certify the behaviors of robots interacting with humans.
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
 
 <div style="flex: 1; min-width: 250px;">
 <h4>Participants</h4>
