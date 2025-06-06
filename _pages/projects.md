@@ -31,3 +31,7 @@ In particular, BEHAVE will address issues related to the formal verification of 
 * **Alessandro Farinelli** - Full Professor
 * **Isabella Mastroeni** - Associate Professor
 * **Daniele Meli** - Temporary Assistant Professor
+
+<p align="right">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/projects/behave.png" width="55%" height="55%" />   
+</p>
