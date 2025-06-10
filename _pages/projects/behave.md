@@ -33,6 +33,11 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
   <li><strong>Isabella Mastroeni</strong> – Associate Professor</li>
   <li><strong>Daniele Meli</strong> – Temporary Assistant Professor</li>
 </ul>
+<h4>Research Group Involved</h4>
+<ul>
+  <li><strong>Luca Marzari</strong> – PhD Candidate</li>
+  <li><strong>Celeste Veronese</strong> – PhD Student</li>
+</ul>
 </div>
 
 <div style="flex: 1; min-width: 250px;">
@@ -43,6 +48,8 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
 
 ## Project related publications
 
-* **[AAMAS 2025]** Bonanni, L., Meli, D., Castellini, A., & Farinelli, A. (2025). **Monte Carlo Tree Search with Velocity Obstacles for safe and efficient motion planning in dynamic environments**. In Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), pages 371-380, Detroit, MI, USA, ISBN: 9798400714269. [https://dl.acm.org/doi/10.5555/3709347.3743551](https://dl.acm.org/doi/10.5555/3709347.3743551)
+* **[AAMAS 2025]** Bonanni, L., Meli, D., Castellini, A., & Farinelli, A. (2025). **Monte Carlo Tree Search with Velocity Obstacles for safe and efficient motion planning in dynamic environments**. In Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025), pages 371-380, Detroit, MI, USA, ISBN: 9798400714269. [https://dl.acm.org/doi/10.5555/3709347.3743551](https://dl.acm.org/doi/10.5555/3709347.3743551).
+
 * **[IAS 2025]** Veronese, C., Meli, D., Iocchi, L., & Farinelli, A. (2025). **Symbolic Exploration with Partial Models in Discrete Reinforcement Learning**. Accepted for presentation at the 19th International Conference on Intelligent Autonomous Systems (IAS-19), Genoa, Italy, June 30 – July 3, 2025, to be published in the conference proceedings. 
-* **[RLC 2025]** Zorzi, E., Castellini, A., Bakopoulos, L., Chalkiadakis, G., & Farinelli, A. (2025). **Seldonian Reinforcement Learning for Ad Hoc Teamwork**. Accepted for presentation at the Reinforcement Learning Conference (RLC), Edmonton, Canada, August 5 to August 9, 2025, to be published in the Reinforcement Learning Journal. [https://arxiv.org/abs/2503.03885](https://arxiv.org/abs/2503.03885)
+
+* **[RLC 2025]** Zorzi, E., Castellini, A., Bakopoulos, L., Chalkiadakis, G., & Farinelli, A. (2025). **Seldonian Reinforcement Learning for Ad Hoc Teamwork**. Accepted for presentation at the Reinforcement Learning Conference (RLC), Edmonton, Canada, August 5 to August 9, 2025, to be published in the Reinforcement Learning Journal. [https://arxiv.org/abs/2503.03885](https://arxiv.org/abs/2503.03885).
