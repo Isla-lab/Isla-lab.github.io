@@ -6,21 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
+<h2>ISLa Group Publications</h2>
 
-# Peer-Reviewed Publications and PrePrints
-{% for yr in site.data.publist %}
-<h3>{{ yr.year }}</h3>
------
-{% for publi in yr.pubs %}
+<div id="bibbase"></div>
 
-{% if publi.team=="NA" %}
-  <b style="color:blue;"> <u> [{{ publi.link.display }}] </u> </b> &nbsp;
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }} 
-{% else %}
- <b>[{{ publi.link.display }}] </b> &nbsp;
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.title }}</a> <br /> {{ publi.description }}
-{% endif %}
-
-{% endfor %}
-{% endfor %}
-
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Isla-lab/Isla-lab.github.io/refs/heads/master/_data/pubs.bib&group0=year&jsonp=1"></script>
