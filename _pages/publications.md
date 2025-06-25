@@ -10,4 +10,4 @@ permalink: /publications/
 
 <div id="bibbase"></div>
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Isla-lab/Isla-lab.github.io/refs/heads/master/_data/pubs.bib&group0=year&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Isla-lab/Isla-lab.github.io/refs/heads/master/_data/pubs.bib&group0=year&jsonp=1&theme=simple"></script>
