@@ -8,13 +8,16 @@ permalink: /publications/
 
 <h2>ISLa Group Publications</h2>
 
-<!-- Spinner di caricamento -->
-<div id="loading-spinner" class="spinner"></div>
+<!-- Spinner + Testo -->
+<div id="loading-container" style="text-align:center; margin: 20px 0;">
+  <div id="loading-spinner" class="spinner"></div>
+  <p id="loading-text">Loading...</p>
+</div>
 
 <!-- Div per BibBase -->
 <div id="bibbase"></div>
 
-<!-- BibBase script -->
+<!-- Script BibBase -->
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/Isla-lab/Isla-lab.github.io/refs/heads/master/_data/pubs.bib&group0=year&jsonp=1&owner=none"></script>
 
 <!-- Spinner CSS -->
@@ -26,7 +29,7 @@ permalink: /publications/
   width: 40px;
   height: 40px;
   animation: spin 1s linear infinite;
-  margin: 30px auto;
+  margin: 0 auto 10px auto;
 }
 
 @keyframes spin {
@@ -35,18 +38,18 @@ permalink: /publications/
 }
 </style>
 
-<!-- Nascondi spinner quando BibBase ha finito -->
+<!-- Nascondi spinner e testo quando BibBase ha caricato -->
 <script>
-  const observer = new MutationObserver((mutations, obs) => {
-    const bibContent = document.querySelector('#bibbase .bibbase_group');
-    if (bibContent) {
-      document.getElementById('loading-spinner').style.display = 'none';
-      obs.disconnect();
-    }
-  });
+  function hideLoadingWhenReady() {
+    const container = document.getElementById('loading-container');
+    const checkExist = setInterval(() => {
+      const bibContent = document.querySelector('#bibbase .bibbase_group');
+      if (bibContent && bibContent.children.length > 0) {
+        container.style.display = 'none';
+        clearInterval(checkExist);
+      }
+    }, 200); // controlla ogni 200ms
+  }
 
-  observer.observe(document.getElementById('bibbase'), {
-    childList: true,
-    subtree: true
-  });
+  document.addEventListener("DOMContentLoaded", hideLoadingWhenReady);
 </script>
