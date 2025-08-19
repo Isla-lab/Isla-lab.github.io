@@ -55,9 +55,6 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
 * **[RLC 2025]** Zorzi, E., Castellini, A., Bakopoulos, L., Chalkiadakis, G., & Farinelli, A. (2025). **Seldonian Reinforcement Learning for Ad Hoc Teamwork**. Accepted for presentation at the Reinforcement Learning Conference (RLC), Edmonton, Canada, August 5 to August 9, 2025, to be published in the Reinforcement Learning Journal. [https://arxiv.org/abs/2503.03885](https://arxiv.org/abs/2503.03885).
 
 
-* **[RLC 2025]** Zorzi, E., Castellini, A., Bakopoulos, L., Chalkiadakis, G., & Farinelli, A. (2025). **Seldonian Reinforcement Learning for Ad Hoc Teamwork**. Accepted for presentation at the Reinforcement Learning Conference (RLC), Edmonton, Canada, August 5 to August 9, 2025, to be published in the Reinforcement Learning Journal. [https://arxiv.org/abs/2503.03885](https://arxiv.org/abs/2503.03885).
-
-
 * **[ECAI 2025]** Marzari, L., Mastroeni, I., & Farinelli, A. (2025). **Advancing Neural Network Verification through Hierarchical Safety Abstract Interpretation**. Accepted for presentation at the European Conference on Artificial Intelligence (ECAI). [https://arxiv.org/pdf/2505.05235](https://arxiv.org/pdf/2505.05235).
 
 * **[RA-L 2025]** Marzari, L., Trotti, F., Marchesini, E., & Farinelli, A. (2025). **Designing Control Barrier Function via Probabilistic Enumeration for Safe Reinforcement Learning Navigation**. IEEE Robotics and Automation Letters (RA-L), 2025. DOI: 10.1109/LRA.2025.3596431 [https://ieeexplore.ieee.org/document/11117187?source=authoralert](https://ieeexplore.ieee.org/document/11117187?source=authoralert).
