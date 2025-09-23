@@ -24,6 +24,11 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
 <div style="display: flex; flex-wrap: wrap; align-items: flex-end; gap: 2rem;">
 
 <div style="flex: 1; min-width: 250px;">
+<h4>Research Group Involved</h4>
+<ul>
+  <li><strong>Luca Marzari</strong> – PhD Candidate</li>
+  <li><strong>Celeste Veronese</strong> – PhD Student</li>
+</ul>
 <h4>Participants</h4>
 <ul>
   <li><strong>Manuele Bicego</strong> – Associate Professor</li>
@@ -32,11 +37,6 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
   <li><strong>Alessandro Farinelli</strong> – Full Professor</li>
   <li><strong>Isabella Mastroeni</strong> – Associate Professor</li>
   <li><strong>Daniele Meli</strong> – Temporary Assistant Professor</li>
-</ul>
-<h4>Research Group Involved</h4>
-<ul>
-  <li><strong>Luca Marzari</strong> – PhD Candidate</li>
-  <li><strong>Celeste Veronese</strong> – PhD Student</li>
 </ul>
 </div>
 
@@ -59,7 +59,7 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
 
 * **[RA-L 2025]** Marzari, L., Trotti, F., Marchesini, E., & Farinelli, A. (2025). **Designing Control Barrier Function via Probabilistic Enumeration for Safe Reinforcement Learning Navigation**. IEEE Robotics and Automation Letters (RA-L), 2025. DOI: 10.1109/LRA.2025.3596431 [https://ieeexplore.ieee.org/document/11117187?source=authoralert](https://ieeexplore.ieee.org/document/11117187?source=authoralert).
 
-* **[TIST 2025]** Marzari, L.,  Cicalese, F., Farinelli, A., Amato, C., & Marchesini, E. (2025). **Verifying Online Safety Properties for Safe Deep Reinforcement Learning**. Accepted with minor revision in ACM Transactions on Intelligent Systems and Technology (TIST). Link available soon.
+* **[TIST 2025]** Marzari, L.,  Cicalese, F., Farinelli, A., Amato, C., & Marchesini, E. (2025). **Verifying Online Safety Properties for Safe Deep Reinforcement Learning**. ACM Transactions on Intelligent Systems and Technology (TIST). Link available soon.
 
 * **[ArXiV 2025]** Marzari, L.,  Cicalese, F., & Farinelli, A. (2025). **Probabilistically Tightened Linear Relaxation-based Perturbation Analysis for Neural Network Verification**. Currently under review in the Journal of Artificial Intelligence Research (JAIR). [https://www.arxiv.org/pdf/2507.05405](https://www.arxiv.org/pdf/2507.05405)
 
