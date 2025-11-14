@@ -63,5 +63,7 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
 
 * **[ArXiV 2025]** Marzari, L.,  Cicalese, F., & Farinelli, A. (2025). **Probabilistically Tightened Linear Relaxation-based Perturbation Analysis for Neural Network Verification**. Currently under review in the Journal of Artificial Intelligence Research (JAIR). [https://www.arxiv.org/pdf/2507.05405](https://www.arxiv.org/pdf/2507.05405)
 
+* **[AAAI 2026]** Marzari, L.,  Bicego, M., Cicalese, F., & Farinelli, A. (2026). **On the Probabilistic Learnability of Compact Neural Network Preimage Bounds**. Accepted for an oral presentation at the 40th Annual Association for the Advancement of Artificial Intelligence 2026 (AAAI). [Paper](https://lmarza.github.io/assets/pdf/On_the_Probabilistic_Learnability_of_Compact_Neural_Network_Preimages_Bounds_aaai26.pdf)
+
 
 
