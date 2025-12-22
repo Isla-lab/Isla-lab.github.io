@@ -60,7 +60,7 @@ In particular, the BEHAVE project assesses issues related to the formal verifica
 
 * **[TIST 2025]** Marzari, L.,  Cicalese, F., Farinelli, A., Amato, C., & Marchesini, E. (2025). **Verifying Online Safety Properties for Safe Deep Reinforcement Learning**. ACM Transactions on Intelligent Systems and Technology (TIST), Sept.2025. DOI: [10.1145/3770068](https://dl.acm.org/doi/10.1145/3770068).
 
-* **[JAIR 2026]** Marzari, L.,  Cicalese, F., & Farinelli, A. (2025). **Probabilistically Tightened Linear Relaxation-based Perturbation Analysis for Neural Network Verification**. To appear in the Journal of Artificial Intelligence Research (JAIR). [https://www.arxiv.org/pdf/2507.05405](https://www.arxiv.org/pdf/2507.05405)
+* **[JAIR 2025]** Marzari, L.,  Cicalese, F., & Farinelli, A. (2025). **Probabilistically Tightened Linear Relaxation-based Perturbation Analysis for Neural Network Verification**. To appear in the Journal of Artificial Intelligence Research (JAIR). [https://www.arxiv.org/pdf/2507.05405](https://www.arxiv.org/pdf/2507.05405)
 
 * **[AAAI 2026]** Marzari, L.,  Bicego, M., Cicalese, F., & Farinelli, A. (2026). **On the Probabilistic Learnability of Compact Neural Network Preimage Bounds**. Accepted for an oral presentation at the 40th Annual Association for the Advancement of Artificial Intelligence 2026 (AAAI). [https://arxiv.org/pdf/2511.11656](https://arxiv.org/pdf/2511.11656)
 
