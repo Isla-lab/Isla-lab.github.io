@@ -24,7 +24,7 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
     Your browser does not support the video tag.
   </video>
   
-  https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4
+  [https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4](https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4)
 </p>
 
 
@@ -62,7 +62,7 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
     Your browser does not support the video tag.
   </video>
 
-  http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4
+  [http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4}
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
     Your browser does not support the video tag.
   </video>
 
-  http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4
+  [http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4)
 </p>
 
 
@@ -89,7 +89,7 @@ Build and test various high level control and coordination techniques for autono
     Your browser does not support the video tag.
   </video>
 
-  http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4
+  [http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4](http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4)
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ Build and test various high level control and coordination techniques for autono
     Your browser does not support the video tag.
   </video>
 
-  http://profs.sci.univr.it/~farinelli/videos/CLV.mp4
+  [http://profs.sci.univr.it/~farinelli/videos/CLV.mp4](http://profs.sci.univr.it/~farinelli/videos/CLV.mp4)
 </p>
 
 
@@ -108,7 +108,7 @@ Build and test various high level control and coordination techniques for autono
     Your browser does not support the video tag.
   </video>
 
-  http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4
+  [http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4](http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4)
 </p>
 
 Possible topics: i) intelligent exploration implementation and evaluation of approaches for intelligent water sampling; ii) HRI study of Human Robot Interaction approaches for controlling a team of autonomous boats.
