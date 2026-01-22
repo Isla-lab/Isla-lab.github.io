@@ -23,10 +23,11 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  
-  [https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4](https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4)
 </p>
 
+<p align="center">
+  [https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4](https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4)
+</p>
 
 *Possible thesis*:
 * Design, compare and, evaluate state of the art algorithms in the environments proposed by unity.
@@ -74,10 +75,11 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
-
-  [http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4)
 </p>
 
+<p align="center">
+  [http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4)
+</p>
 
 # Main applications
 
