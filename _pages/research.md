@@ -23,6 +23,7 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4
 </p>
 
 
