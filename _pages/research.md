@@ -57,8 +57,10 @@ DNNs have shown impressive performance in various tasks. However, the vulnerabil
 Implement and evaluate coordination approaches for Multi-robot systems. Design coordination approaches for robotic agents involved in indoor logistic operations (e.g., pickup and delivery). Test the solution on a widely used simulation environments (ROS + stage) and possibly on real platforms (turtlebot, RB-KAIROS);
 
 <p align="center">
-  <video width="55%" controls>
-    <source src="http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4" type="video/mp4">
+  <video width="55%" controls preload="metadata">
+    <source
+      src="https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4"
+      type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -66,8 +68,10 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
 </p>
 
 <p align="center">
-  <video width="55%" controls>
-    <source src="http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4" type="video/mp4">
+  <video width="55%" controls preload="metadata">
+    <source
+      src="http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4"
+      type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -84,8 +88,10 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
 Build and test various high level control and coordination techniques for autonomous robotic boats for monitoring water conditions in lakes and rivers. This is the main research focus of the INTCATCH 2020 project.
 
 <p align="center">
-  <video width="55%" controls>
-    <source src="http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4" type="video/mp4">
+  <video width="55%" controls preload="metadata">
+    <source
+      src="http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4"
+      type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
@@ -93,18 +99,24 @@ Build and test various high level control and coordination techniques for autono
 </p>
 
 <p align="center">
-  <video width="55%" controls>
-    <source src="http://profs.sci.univr.it/~farinelli/videos/CLV.mp4" type="video/mp4">
+
+  <video width="55%" controls preload="metadata">
+    <source
+      src="http://profs.sci.univr.it/~farinelli/videos/CLV.mp4"
+      type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  
 
   [http://profs.sci.univr.it/~farinelli/videos/CLV.mp4](http://profs.sci.univr.it/~farinelli/videos/CLV.mp4)
 </p>
 
 
 <p align="center">
-  <video width="55%" controls>
-    <source src="http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4" type="video/mp4">
+    <video width="55%" controls preload="metadata">
+    <source
+      src="http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4"
+      type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
