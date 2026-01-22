@@ -61,6 +61,8 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
     <source src="http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
+  http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4
 </p>
 
 <p align="center">
@@ -68,6 +70,8 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
     <source src="http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
+  http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4
 </p>
 
 
@@ -84,6 +88,8 @@ Build and test various high level control and coordination techniques for autono
     <source src="http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
+  http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4
 </p>
 
 <p align="center">
@@ -91,6 +97,8 @@ Build and test various high level control and coordination techniques for autono
     <source src="http://profs.sci.univr.it/~farinelli/videos/CLV.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
+  http://profs.sci.univr.it/~farinelli/videos/CLV.mp4
 </p>
 
 
@@ -99,6 +107,8 @@ Build and test various high level control and coordination techniques for autono
     <source src="http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+
+  http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4
 </p>
 
 Possible topics: i) intelligent exploration implementation and evaluation of approaches for intelligent water sampling; ii) HRI study of Human Robot Interaction approaches for controlling a team of autonomous boats.
