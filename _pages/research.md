@@ -17,13 +17,6 @@ In recent years, Deep Reinforcement Learning (RL) has emerged as a powerful tech
 In particular, we propose to exploit DRL to generate a DNN-based real-time controller for the water monitoring drone and mobile robotics.
 
 <p align="center">
-  <video width="55%" controls>
-    <source src="https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
   <video width="55%" controls preload="metadata">
     <source
       src="https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4"
