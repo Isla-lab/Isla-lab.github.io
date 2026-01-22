@@ -18,7 +18,16 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
 
 <p align="center">
   <video width="55%" controls>
-    <source src="http://profs.sci.univr.it/~farinelli/videos/aquatic.mp4" type="video/mp4">
+    <source src="https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <video width="55%" controls preload="metadata">
+    <source
+      src="https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4"
+      type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
