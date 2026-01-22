@@ -62,7 +62,7 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
     Your browser does not support the video tag.
   </video>
 
-  [http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4}
+  [http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4)
 </p>
 
 <p align="center">
