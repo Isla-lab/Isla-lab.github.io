@@ -98,8 +98,9 @@ Build and test various high level control and coordination techniques for autono
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
+</p>
 
-
+<p align="center">
   [http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4](http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4)
 </p>
 
@@ -111,8 +112,9 @@ Build and test various high level control and coordination techniques for autono
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
+</p>
   
-
+<p align="center">
   [http://profs.sci.univr.it/~farinelli/videos/CLV.mp4](http://profs.sci.univr.it/~farinelli/videos/CLV.mp4)
 </p>
 
@@ -124,8 +126,9 @@ Build and test various high level control and coordination techniques for autono
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
+</p>
 
-
+<p align="center">
   [http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4](http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4)
 </p>
 
