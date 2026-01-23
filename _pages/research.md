@@ -18,7 +18,7 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
 
 <p align="center">
   <video controls preload="metadata" playsinline style="width:55%;">
-    <source src="https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4" type="video/mp4">
+    <source src="https://youtu.be/aoBYY6Bc46M" type="video/mp4">
   </video>
 </p>
 
@@ -57,7 +57,7 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
 <p align="center">
   <video width="55%" controls preload="metadata">
     <source
-      src="http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4"
+      src="https://youtu.be/V6zRHVJm0Eg"
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -70,7 +70,7 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
 <p align="center">
   <video width="55%" controls preload="metadata">
     <source
-      src="http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4"
+      src="https://youtu.be/OE1EipY-hWU"
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -91,7 +91,7 @@ Build and test various high level control and coordination techniques for autono
 <p align="center">
   <video width="55%" controls preload="metadata">
     <source
-      src="http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4"
+      src="https://youtu.be/cQB11BW7Dho"
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -105,7 +105,7 @@ Build and test various high level control and coordination techniques for autono
 
   <video width="55%" controls preload="metadata">
     <source
-      src="http://profs.sci.univr.it/~farinelli/videos/CLV.mp4"
+      src="https://youtu.be/na6hMbGyEXU"
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -119,7 +119,7 @@ Build and test various high level control and coordination techniques for autono
 <p align="center">
     <video width="55%" controls preload="metadata">
     <source
-      src="http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4"
+      src="https://youtu.be/PtiiG7eYkAI"
       type="video/mp4">
     Your browser does not support the video tag.
   </video>
