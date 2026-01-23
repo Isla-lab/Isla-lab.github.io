@@ -109,8 +109,8 @@ Build and test various high level control and coordination techniques for autono
 
 
 <p align="center">
-  <a href="https://youtu.be/PtiiG7eYkAI">
-    <img src="https://img.youtube.com/vi/PtiiG7eYkAI/0.jpg" width="55%">
+  <a href="https://youtu.be/44YjbDbCDXY">
+    <img src="https://img.youtube.com/vi/44YjbDbCDXY/0.jpg" width="55%">
   </a>
 </p>
 
