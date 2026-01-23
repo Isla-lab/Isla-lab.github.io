@@ -18,19 +18,13 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
 
 
 <p align="center">
-  <iframe
-    width="55%"
-    height="315"
-    src="https://www.youtube.com/embed/aoBYY6Bc46M"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
+  <a href="https://youtu.be/aoBYY6Bc46M">
+    <img src="https://img.youtube.com/vi/aoBYY6Bc46M/0.jpg" width="55%">
+  </a>
 </p>
 
 <p align="center">
-  [https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4](https://profs.sci.univr.it/~farinelli/videos/aquatic.mp4)
+  <em>Click to watch the video</em>
 </p>
 
 *Possible thesis*:
