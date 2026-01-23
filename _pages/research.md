@@ -24,7 +24,7 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
 </p>
 
 <p align="center">
-  <em>Click to watch the video</em>
+  <em>Click on the image to watch the video</em>
 </p>
 
 *Possible thesis*:
@@ -56,30 +56,26 @@ DNNs have shown impressive performance in various tasks. However, the vulnerabil
 Implement and evaluate coordination approaches for Multi-robot systems. Design coordination approaches for robotic agents involved in indoor logistic operations (e.g., pickup and delivery). Test the solution on a widely used simulation environments (ROS + stage) and possibly on real platforms (turtlebot, RB-KAIROS);
 
 <p align="center">
-  <video width="55%" controls preload="metadata">
-    <source
-      src="https://youtu.be/V6zRHVJm0Eg"
-      type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>  
-
-<p align="center">
-  [http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD-new.mp4)
+  <a href="https://youtu.be/V6zRHVJm0Eg">
+    <img src="https://img.youtube.com/vi/V6zRHVJm0Eg/0.jpg" width="55%">
+  </a>
 </p>
 
 <p align="center">
-  <video width="55%" controls preload="metadata">
-    <source
-      src="https://youtu.be/OE1EipY-hWU"
-      type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <em>Click on the image to watch the video</em>
+</p>
+
+
+<p align="center">
+  <a href="https://youtu.be/OE1EipY-hWU">
+    <img src="https://img.youtube.com/vi/OE1EipY-hWU/0.jpg" width="55%">
+  </a>
 </p>
 
 <p align="center">
-  [http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4](http://profs.sci.univr.it/~farinelli/videos/MAPD_sim.mp4)
+  <em>Click on the image to watch the video</em>
 </p>
+
 
 # Main applications
 
@@ -90,45 +86,38 @@ Implement and evaluate coordination approaches for Multi-robot systems. Design c
 Build and test various high level control and coordination techniques for autonomous robotic boats for monitoring water conditions in lakes and rivers. This is the main research focus of the INTCATCH 2020 project.
 
 <p align="center">
-  <video width="55%" controls preload="metadata">
-    <source
-      src="https://youtu.be/cQB11BW7Dho"
-      type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://youtu.be/cQB11BW7Dho">
+    <img src="https://img.youtube.com/vi/cQB11BW7Dho/0.jpg" width="55%">
+  </a>
 </p>
 
 <p align="center">
-  [http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4](http://profs.sci.univr.it/~farinelli/videos/AGS-drones.mp4)
-</p>
-
-<p align="center">
-
-  <video width="55%" controls preload="metadata">
-    <source
-      src="https://youtu.be/na6hMbGyEXU"
-      type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-  
-<p align="center">
-  [http://profs.sci.univr.it/~farinelli/videos/CLV.mp4](http://profs.sci.univr.it/~farinelli/videos/CLV.mp4)
+  <em>Click on the image to watch the video</em>
 </p>
 
 
 <p align="center">
-    <video width="55%" controls preload="metadata">
-    <source
-      src="https://youtu.be/PtiiG7eYkAI"
-      type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://youtu.be/na6hMbGyEXU">
+    <img src="https://img.youtube.com/vi/na6hMbGyEXU/0.jpg" width="55%">
+  </a>
 </p>
 
 <p align="center">
-  [http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4](http://profs.sci.univr.it/~farinelli/videos/DepthCons-mapless-navigation.mp4)
+  <em>Click on the image to watch the video</em>
 </p>
+
+
+
+<p align="center">
+  <a href="https://youtu.be/PtiiG7eYkAI">
+    <img src="https://img.youtube.com/vi/PtiiG7eYkAI/0.jpg" width="55%">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click on the image to watch the video</em>
+</p>
+
 
 Possible topics: i) intelligent exploration implementation and evaluation of approaches for intelligent water sampling; ii) HRI study of Human Robot Interaction approaches for controlling a team of autonomous boats.
 
