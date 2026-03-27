@@ -7,14 +7,14 @@ permalink: /members/
 ---
 
 # Group Members
-Multiple Master's and Bachelor's thesis are currently available in our research group. If interested, please email to [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Please specify your area of interest:
+<!-- Multiple Master's and Bachelor's thesis are currently available in our research group. If interested, please email to [alessandro.farinelli@univr.it](mailto:alessandro.farinelli@univr.it). Please specify your area of interest:
 
 * Artificial Intelligence algorithms for Autonomous Surface Vehicles.
 * Deep Reinforcement Learning for Robotic Systems in Complex Environments with Unity3D.
 * Situation Awareness and Safe Navigation for Drones.
 * Formal Verification methods for Deep Neural Networks.
 * Neurosymbolic AI.
-* Monte Carlo Methods for solving POMDP.
+* Monte Carlo Methods for solving POMDP. -->
 
 ## Director
 {% assign number_printed = 0 %}
@@ -281,18 +281,21 @@ Multiple Master's and Bachelor's thesis are currently available in our research 
 <h3 style="color:blue;"> <u> Alumni </u> </h3>
 
 <table align="center" style="width:100%">
-
+  <tr>
+    <td> - <b>Luca Marzari</b>. Thesis title: "Advanced Neural Networks Verification for Safe and Explainable Intelligent Systems". (Defended in 2026).
+    Luca Marzari is a research fellow at TU Wien (updated in 2026).</td>
+  </tr>
   <tr>
     <td> - <b>Maddelena Zuccotto</b>. Thesis title: "Learning in Monte Carlo Tree Search Planning". (PhD cycle XXXV).</td>
   </tr>
   <tr>
     <td> - <b>Davide Corsi</b>. Thesis title: "Safe Deep Reinforcement Learning: Enhancing the Reliability of Intelligent Systems". (PhD cycle XXXV).
-      Davide Corsi is a Postdoctoral Associate at University of California Irvine (updated on 2024).  </td>
+      Davide Corsi is a Postdoctoral Associate at University of California Irvine (updated in 2024).  </td>
     </tr>
     <tr>
     <td> - <b>Adrià Fenoy</b>. 
       Thesis title: "Combining Optimization and Machine Learning for the Formation of Collectives". (PhD cycle XXXV).
-      Adrià Fenoy is an AI engineer at MeteoSim (updated on 2024) 
+      Adrià Fenoy is an AI engineer at MeteoSim (updated in 2024) 
       </td>
       </tr>
       <tr>
@@ -301,25 +304,25 @@ Multiple Master's and Bachelor's thesis are currently available in our research 
   </tr>
   <tr>
     <td> - <b>Enrico Marchesini</b>. 
-Thesis title: "Enhancing Exploration and Safety in Deep Reinforcement Learning". (PhD cycle XXXIV). Enrico Marchesini is a Postdoctoral Associate at Massachusetts Institute of Technology (MIT) (updated on 2024).
+Thesis title: "Enhancing Exploration and Safety in Deep Reinforcement Learning". (PhD cycle XXXIV). Enrico Marchesini is a Postdoctoral Associate at Massachusetts Institute of Technology (MIT) (updated in 2024).
  </td>
    </tr>
      <tr>
     <td> - <b>Riccardo Sartea</b>. 
-Thesis title: "Active Malware Analysis based on reinforcement learning techniques". (PhD cycle XXXII). Riccardo Sartea is Data Scientist at Amazon Web Services (AWS) (updated on 2024). </td>
+Thesis title: "Active Malware Analysis based on reinforcement learning techniques". (PhD cycle XXXII). Riccardo Sartea is Data Scientist at Amazon Web Services (AWS) (updated in 2024). </td>
   </tr>
     <tr>
     <td> - <b>Lorenzo Bottarelli</b>. 
-Thesis Title: "Optimizing Information Gathering for Environmental Monitoring Applications". (PhD Cycle XXXI). Lorenzo Bottarelli is head of Machine Learning at Ignitia AB (updated on 2024). </td>
+Thesis Title: "Optimizing Information Gathering for Environmental Monitoring Applications". (PhD Cycle XXXI). Lorenzo Bottarelli is head of Machine Learning at Ignitia AB (updated in 2024). </td>
   </tr>
     <tr>
     <td> - <b>Masoume M. Raeissi</b>. 
-Thesis Title: "Modeling Supervisory Control in Multi-Robot Applications". (PhD cycle XXX). Masoume Raeissi is Research Associate (AI) at Wageningen University & Research (updated on 2024) </td>
+Thesis Title: "Modeling Supervisory Control in Multi-Robot Applications". (PhD cycle XXX). Masoume Raeissi is Research Associate (AI) at Wageningen University & Research (updated in 2024) </td>
   </tr>
     <tr>
     <td> - <b>Filippo Bistaffa</b>. 
 Thesis Title: "Constraint Optimisation Techniques for Real-World Applications". (PhD Cycle XXVIII).
-Filippo Bistaffa is tenured researcher at IIIA-CSIC (updated on 2024) </td>
+Filippo Bistaffa is tenured researcher at IIIA-CSIC (updated in 2024) </td>
  </tr>
 
 </table>
