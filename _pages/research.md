@@ -28,7 +28,7 @@ In particular, we propose to exploit DRL to generate a DNN-based real-time contr
 </p>
 
 *Possible thesis*:
-* Design, compare and, evaluate state of the art algorithms in the environments proposed by unity.
+* Design, compare and evaluate state of the art algorithms in the environments proposed by unity.
 * Work on safety-critical domains, designing specific environments and algorithms. 
 * Compare machine learning techniques with other artificial intelligence algorithms, to evaluate which one performs better on a specific task.
 

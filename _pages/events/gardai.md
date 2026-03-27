@@ -21,6 +21,17 @@ In the spirit of the Italian National Digital School Plan, the Department of Com
 <div style="display: flex; flex-wrap: wrap; align-items: flex-end; gap: 2rem;">
 
 <div style="flex: 1; min-width: 250px;">
+
+<p align="center">
+  <a href="https://youtu.be/Beo0PW1RDmA">
+    <img src="https://img.youtube.com/vi/Beo0PW1RDmA/0.jpg" width="55%">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click on the image to watch the video</em>
+</p>
+
 <h4>Research Group Involved</h4>
 <ul>
   <li><strong>Daniele Meli</strong> – Assistant Professor</li>
