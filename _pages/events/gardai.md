@@ -36,7 +36,7 @@ In the spirit of the Italian National Digital School Plan, the Department of Com
 </div>
 
 <div style="flex: 1; min-width: 250px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/events/gardai.pdf" alt="GardAI poster" style="width: 100%; height: auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/events/gardai.png" alt="GardAI poster" style="width: 100%; height: auto;" />
 </div>
 
 </div>
