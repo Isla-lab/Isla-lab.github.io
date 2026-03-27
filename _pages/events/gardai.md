@@ -21,10 +21,14 @@ In the spirit of the Italian National Digital School Plan, the Department of Com
 <div style="display: flex; flex-wrap: wrap; align-items: flex-end; gap: 2rem;">
 
 <div style="flex: 1; min-width: 250px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/events/gardai.png" alt="GardAI poster" style="width: 100%; height: auto;" />
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 <p align="center">
   <a href="https://youtu.be/Beo0PW1RDmA">
-    <img src="https://img.youtube.com/vi/Beo0PW1RDmA/0.jpg" width="55%">
+    <img src="https://img.youtube.com/vi/Beo0PW1RDmA/0.jpg" width="100%">
   </a>
 </p>
 
@@ -44,10 +48,6 @@ In the spirit of the Italian National Digital School Plan, the Department of Com
   <li>Istituto IIS “Marie Curie” di Garda-Bussolengo</li>
   <li>Oscar Gagliardo</li>
 </ul>
-</div>
-
-<div style="flex: 1; min-width: 250px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/events/gardai.png" alt="GardAI poster" style="width: 100%; height: auto;" />
 </div>
 
 </div>
