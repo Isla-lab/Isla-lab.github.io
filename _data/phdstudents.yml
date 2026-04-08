@@ -6,14 +6,14 @@
 
 - name: Celeste Veronese
   photo: ce.jpeg
-  website: 
+  website: https://www.di.univr.it/?ent=persona&id=38065&lang=itLuca
   
   info: is a PhD student at the University of Verona, supervised by Prof. Alessandro Farinelli and Daniele Meli.
     Her current research focuses on the integration of symbolic, logic-based reasoning and Reinforcement Learning to improve the efficiency, interpretability, and generalization of AI systems, particularly in complex decision-making environments. 
 
 - name: Davide Villaboni
   photo: davide.png
-  website: 
+  website: https://www.di.univr.it/?ent=persona&id=24780
   
   info: is a PhD student at the University of Verona, supervised by Prof. Alessandro Farinelli and Alberto Castellini.
     His current research focuses on enhancing forecast prediction through offline reinforcement learning and transformers. 
@@ -21,13 +21,13 @@
 
 - name: Francesco Dal Santo
   photo: dalsanto.png
-  website: 
+  website: https://www.di.univr.it/?ent=persona&id=62950&lang=null
   
   info: TBD
 
 
 - name: Edoardo Zorzi
   photo: zorzi.png
-  website: 
+  website: https://www.di.univr.it/?ent=persona&id=28708&lang=ita
   
   info: Edoardo is a National PhD student at Sapienza University of Rome, also affiliated withthe University of Verona, where he is currently located. He is supervised by Prof. Alessandro Farinelli and Prof. Luca Iocchi. His research interests focus on multimodal models for robotics, embodied AI, and reinforcement learning, with particular emphasis on integrating visual and textual modalities to develop intelligent systems that can perceive, reason, and act effectively in complex, real-world environments.
