@@ -27,8 +27,8 @@ In the spirit of the Italian National Digital School Plan, the Department of Com
 <div style="flex: 1; min-width: 250px;">
 
 <p align="center">
-  <a href="https://youtu.be/Beo0PW1RDmA">
-    <img src="https://img.youtube.com/vi/Beo0PW1RDmA/0.jpg" width="100%">
+  <a href="https://youtu.be/tbRFStdF3uc">
+    <img src="https://img.youtube.com/vi/tbRFStdF3uc/0.jpg" width="100%">
   </a>
 </p>
 
