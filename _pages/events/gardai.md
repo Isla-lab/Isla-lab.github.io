@@ -40,6 +40,7 @@ In the spirit of the Italian National Digital School Plan, the Department of Com
 <ul>
   <li><strong>Daniele Meli</strong> – Assistant Professor</li>
   <li><strong>Alessandro Farinelli</strong> – Full Professor</li>
+  <li><strong>Alberto Castellini</strong> – Associate Professor</li>
 </ul>
 <h4>Organizing Institutions</h4>
 <ul>
