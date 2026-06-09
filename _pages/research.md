@@ -11,7 +11,7 @@ permalink: /research/
 Our research group aims at developing methodological and applied research in Artificial Intelligence, Machine Learning and data analysis for intelligent systems.
 The code of our project is available at https://github.com/Isla-lab
 
-#### Safe Deep Reinforcement Learning for Autonomous Agents
+## Safe Deep Reinforcement Learning for Autonomous Agents
 In recent years, Deep Reinforcement Learning (RL) has emerged as a powerful technique to solve complex problems in a variety of applications, reaching and often outperforming classical algorithms and humans. Our research focuses mainly in novel RL methodologies that address the problem of safety, i.e., the application of RL solutions to problems and domains involving interaction with humans, hazardous situations and expensive hardware.
 
 <!-- In particular, we propose to exploit DRL to generate a DNN-based real-time controller for the water monitoring drone and mobile robotics. -->
@@ -34,7 +34,7 @@ In recent years, Deep Reinforcement Learning (RL) has emerged as a powerful tech
 
 
 
-#### Planning under uncertainty
+## Planning under uncertainty
 
 The objective is to find the best possible action given data received from uncertain real sensors. An example is to decide the speed that a drone should maintain to make sure it will reach the end of a given path with enough battery, or avoiding obstacles. Possible techniques include Markov Decision Processes (MDPs), Partialy Observable MDPs, Monte Carlo methods, and the combination of **RL and control techniques** with data analysis.
 
@@ -50,7 +50,7 @@ The objective is to find the best possible action given data received from uncer
   <em>Click on the image to watch the video</em>
 </p>
 
-#### Neurosymbolic Decision Making
+## Neurosymbolic Decision Making
 
 Deep RL is inherently stochastic, hence unreliable when deployed in safety-critical or human-centered settings. Conversely, classical symbolic AI allows to represent planning domains and constraints in a rigorous formalism with provable guarantees. The recent trend in AI is the combination between the two realms, that is NeuroSymbolic (NeSy) decision making. Research at ISLa focuses on the efficient combination of deep RL algorithms (e.g., DQN, PPO) with logic representation and planning in first-order and temporal logics, to embed safety and heuristic knowledge in learning agents.
 
@@ -58,7 +58,7 @@ Deep RL is inherently stochastic, hence unreliable when deployed in safety-criti
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/nesy.png" width="55%" height="55%" />   
 </p>
 
-#### Formal Verification of Deep Neural Networks
+## Formal Verification of Deep Neural Networks
 DNNs have shown impressive performance in various tasks. However, the vulnerability of these models to adversarial inputs is a well-documented phenomenon observed across various applications. Formal Verification (FV) of DNNs uses mathematical methods to rigorously prove that a neural network meets certain safety and reliability requirements expressed as input-output relationships. Our research group is very active in this topic. We developed ProVe (Corsi et al. 2021) an interval propagation-based method and CountingProVe (Marzari, Corsi et al. 2023) a first randomized-approximated algorithm for the #DNN-Verification problem.
 
 <p align="center">
@@ -66,12 +66,12 @@ DNNs have shown impressive performance in various tasks. However, the vulnerabil
 </p>
 
 
-#### Multi-Agent Coordination
+## Multi-Agent Coordination
 
 Implement and evaluate coordination approaches for Multi-agent systems. 
 This includes Multi-Agent RL strategies (MARL) for adaptive planning under uncertainty, and Multi-Agent Path Finding (MAPF) for pre-planned synchronization (e.g., in logistics).
 
-#### Advanced data analysis and Explainable AI
+## Advanced data analysis and Explainable AI
 ISLa has strong experience in the analysis of large image and time series datasets, with advanced deep learning methods including transformers.
 One important focus of research regards Explainable AI (XAI), with the goal to provide trustable and interpretable predictions from large data and models. Techniques as causal discovery and hidden Markov models ensure robust performance and superior interpretability than classical deep learning techniques.
 
@@ -109,7 +109,7 @@ One important focus of research regards Explainable AI (XAI), with the goal to p
 
 
 
-#### Water Monitoring with autonomous robotic boats
+## Water Monitoring with autonomous robotic boats
 
 Build and test various high level control and coordination techniques for autonomous robotic boats for monitoring water conditions in lakes and rivers. T
 <!-- his is the main research focus of the INTCATCH 2020 project. -->
@@ -151,7 +151,7 @@ Build and test various high level control and coordination techniques for autono
 <!-- Possible topics: i) intelligent exploration implementation and evaluation of approaches for intelligent water sampling; ii) HRI study of Human Robot Interaction approaches for controlling a team of autonomous boats. -->
 
 
-#### Single and multi-robot terrain navigation
+## Single and multi-robot terrain navigation
 
 <p align="center">
   <a href="https://youtu.be/V6zRHVJm0Eg">
@@ -176,7 +176,7 @@ Build and test various high level control and coordination techniques for autono
 
 
 
-#### Adaptable Energy Management in Smart Buildings and Smart Grids
+## Adaptable Energy Management in Smart Buildings and Smart Grids
 
 Buildings account for approximately 40% of final energy consumption and over one third of CO₂ emissions in the EU, while at the same time representing a largely underutilised source of flexibility for the energy system. The future decarbonisation objectives cannot be achieved by focusing solely on generation-side solutions, but require buildings to become active, adaptive and grid-interactive elements of the energy system. This research focuses on developing methodologies based primarily on reinforcement learning, autonomous planning under uncertainty, and time-series forecasting to reduce the energy, emissions and costs of smart buildings and smart grids. A strong focus is currently on the optimal usage of renewable energies.
 
@@ -185,7 +185,7 @@ Buildings account for approximately 40% of final energy consumption and over one
 </p>
 
 
-#### Explainable anomaly detection from industrial time series
+## Explainable anomaly detection from industrial time series
 
 <p align="center">
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/anomaly.png" width="55%" height="55%" />   
